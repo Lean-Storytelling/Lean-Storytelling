@@ -5,8 +5,10 @@
 **Lean Storytelling**:
 
 - **Shape and structure** your story, with the foundational building blocks, to **setup the core**.
-- **Extend and complete** your story, with additional elements, and complexity, to **fine-tune**.
-- **Specialise and deliver** your story, in various formats to different audiences, for **influence and leadership**.
+- **Extend and complete** your narrative, with additional elements, and complexity, to **fine-tune the flow**.
+- **Specialise and deliver** your arc, in various formats to precise audiences, to **tailor and adjust the articulation**.
+- **Learn and adapt**, from the qualitative and quantitative feedback, to **reshape for reality and perception**.
+- **Explore and experiment**, to ranges of styles and approaches, to **master storytelling**.
 
 > [!IMPORTANT]
 > Learn fast, practice hard, get feedback, try again.
