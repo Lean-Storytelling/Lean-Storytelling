@@ -191,6 +191,22 @@ Specialise story to:
 - Investors
 - Collaborators
 
+### Feedback
+
+#### Qualitative
+
+#### Quantitative
+
+#### Analyse
+
+### Beyond
+
+#### Invent
+
+#### Explore
+
+#### Experiment
+
 ### A picture is worth a thousand words
 
 Build + Extend + Deliver = Get feedback and restart!
@@ -215,6 +231,14 @@ Deliver("`**Deliver**`")-->Format{{"`*Custom
 Format-->Audience{{"`*Specific
     Audience*`"}}
 Audience
+
+Feedback("`**Feedback**`")-->Qualitative{{"`*Qualitative*`"}}
+Qualitative-->Quantitative{{"`*Quantitative*`"}}
+Quantitative-->Analyse{{"`*Analyse*`"}}
+
+Beyond("`**Beyond**`")-->Invent{{"`*Invent*`"}}
+Invent-->Explore{{"`*Explore*`"}}
+Explore-->Experiment{{"`*Experiment*`"}}
 
     classDef default fill:#f8f9fa,stroke:#333,stroke-width:2px,rx:8,ry:8;
 ```
