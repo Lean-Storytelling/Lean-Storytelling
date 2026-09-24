@@ -1,19 +1,25 @@
 # Lean Storytelling
 
-**Craft and deliver** compelling, efficient, convincing **stories** about your business, service, or product!
+Have you ever tried to tell stories about products or services? It's difficult... And mayb a little frustrating.
+Or maybe you have tried to listen to stories about products or services? And that was not the best time of your life...
 
-**Lean Storytelling**:
+It's not about the boredom, it may be more about the structure of the narrative arc.
+
+With the **Lean Storytelling** methodology:
+Learn to **craft and deliver** compelling, efficient, and convincing **stories**, about your business, service, or product!
+
+How **Lean Storytelling** works for you:
 
 - **Shape and structure** your story, with the foundational building blocks, to **setup the core**.
 - **Extend and complete** your narrative, with additional elements, and complexity, to **fine-tune the flow**.
-- **Specialise and deliver** your arc, in various formats to precise audiences, to **tailor and adjust the articulation**.
+- **Specialise and deliver** your arc, in various formats to precise audiences, to **tailor and adjust to targets**.
 - **Learn and adapt**, from the qualitative and quantitative feedback, to **reshape for reality and perception**.
 - **Explore and experiment**, to ranges of styles and approaches, to **master storytelling**.
 
 > [!IMPORTANT]
-> Learn fast, practice hard, get feedback, try again.
+> Learn fast ths basics of Lean Storytelling, practice hard, get tons of feedback, and try again, a lot.
 
-What is it? What for? What's in it for me? How do I start? Read more below...
+But what is it? And what is it for? What's in it for me? How do I start? What's the outcome? Read now below...
 
 ---
 
@@ -29,34 +35,34 @@ What is it? What for? What's in it for me? How do I start? Read more below...
 
 ### Core motivation
 
-It was made, battled-tested, and refined so that people communicate clearly, in a standard and proven manner, the way humans have told stories since the dawn of humanity, by giving and taking stories, living the feeling of adventure.
+Lean Storytelling was made, battled-tested, and refined so that people communicate clearly, in a standard and proven manner, the way humans have told stories since the dawn of humanity, by giving and taking stories, living the thrill of adventure.
 
 ### Who it is indended for
 
-Lean Storytelling is designed for leaders and managers who want to be much more efficient in their communication style.
+Lean Storytelling is designed for leaders and managers who want to be much more efficient in their communication style, about products, services, and businesses.
 
 ### How this works
 
-Shape and structure your story, given the widely used, but implicit ingredients.
+Shape and structure your story, given the widely used, but implicit ingredients, untold recipe, and magic sauce.
 Then deliver your story in any format or context.
 
 People know how to "receive" a story, as they are used to "receiving" novels, series, movies...
-But people have difficulties to properly "send" stories by respecting the untold, implicit secrets, that humanity has used since forever.
+But people have difficulties to properly "send" stories by respecting the untold, underlying secrets, that humanity has used since forever.
 
-### What Lean Storytelling is really
+### What Lean Storytelling really is
 
-**Lean Storytelling** is a structured technique for crafting clear, compelling stories—especially for business, product, and service contexts. It draws on best practices to ensure your audience understands, resonates, and remembers your message.
+**Lean Storytelling** is a structured technique for crafting clear, compelling stories, especially for business, product, and service contexts.
+It draws on best practices of storytelling, to ensure your audience understands, resonates, and remembers your message.
 
 > [!NOTE]
->  It is easy to learn, but challenging to master, requiring careful practice, learning from your audience, and persistence.
+>  It is very easy to learn the structure, and understand the method, but it is challenging to master, requiring careful practice, learning from your audience, and much patience, and persistence.
 
-Lean Storytelling has been crafted for business, product, and service: whether you want pitch or test an idea, refine and develop , or delierv and promote
-development and promotion
+Lean Storytelling has been crafted for business, product, and service: whether you want pitch or test an idea, refine and develop a plan, or even deliver and promote something already mature.
 
 > [!CAUTION]
-> Not for screenwriting or novel writing.
+> Lean Storytelling is not for screenwriting or novel writing.
 
-This helps align teams, reduce friction, and clarify the "why" behind any story.
+Lean Storytelling helps align people, reduce friction, speak the same languagen, and clarify the machanics behind any story.
 
 ### What's in it for me?
 
@@ -65,6 +71,8 @@ Become crystal clear in your communication, impact more, influence harder.
 ---
 
 ## Methodology overview: quick start & usage
+
+Here is we go: a picture is worth a thousand words.
 
 ### Build your story
 
@@ -99,65 +107,111 @@ flowchart TD
     classDef default fill:#f8f9fa,stroke:#333,stroke-width:2px,rx:8,ry:8;
 ```
 
+Now, let's explain this, step by step.
+
 #### Basic Story
 
-- **Target**: The user, the client, the buyer—the hero of your story, the one who experiences transformation
-- **Problem**: The challenge or antagonism your Target faces
-- **Solution**: Your offering (keep it concise; avoid over-explaining)
+- **Target**: We are talking here about the main character. And in business, this is the user, the client, the buyer. The hero of your story is the one who experiences transformation.
+- **Problem**: The challenge or antagonism your Target faces, the things that block or slow down, and that are painful, and need action for resolution.
+- **Solution**: Your offering: keep it concise! Avoid explaining! Do net detail anything. If you story is convincing, then it raises curiosity. Your audience will then invest time to investigate your solution.
 
 > [!IMPORTANT]
 > The hero is essential to storytelling, in this context we are client-centric.
 
+> [!IMPORTANT]
+> The antagonism or opposition is core to storytelling, without it, there is not adventure.
+
+> [!IMPORTANT]
+> The trio made of the **main character**, the **conflict/friction**, and the **outcome**, is the **foundation** of storytelling.
+
 > [!CAUTION]
 > Stay concise, if not laconic, about the Solution.
+> If your story has performed, then you have attracted attention.
+> Your audience will ask you questions if they are interested.
+
+Got it? Now let's move on.
 
 #### Detailed Story
 
+Let's add some details to your narrative, ingredients to the recipe.
+
 - Target
-  - **Empathy**: What the Target sees, feels, hears, and says
+  - **Empathy**: What the Target sees, feels, hears, and says. It is essential that the audience can understand the hero. The more you show you know your client/user, the more your story is convincing.
 - Problem
-  - **Consequences**: How the Problem impacts the target’s daily life, the pain that is felt
+  - **Consequences**: How the Problem impacts the target’s daily life, the pain that is felt, the absolute need to make that challenge/obstacle disappear. This is the call to the adventure.
 - Solution
-  - **Benefits**: The tangible advantages your Solution provides to the Target
+  - **Benefits**: The tangible advantages that your Solution provides to the Target after resolving the issue.
 
 > [!TIP]
-> Express Problem as a positive sentence form, not a negative way: "Problem is the lack og my Solution".
+> Express the Problem using as a positive sentence, not a negative form: "The Target's Problem is the lack of my Solution".
  
 > [!WARNING]
-> The Solution may not mean anything to your audience, rather explicit the ture Benefits and advantges.
+> The Solution may not mean anything to your audience, rather explicit the true Benefits and advantages.
 
+Now we have a hero we know well. We have painful problem that needs action. And we have a working and effective solution.
 
 #### Full Story
 
-- **Context**: The environment in which the Target operates
+Let's finish this.
+
+- **Context**: The environment in which the Target operates, like timeframe, geography, technical or functional situation. Take the photo, before the camera moves on to the main character.
 - Target
     - Empathy
 - Problem
     - Consequences
 - Solution
    - Benefits
-- **Why**: The core motivation or guiding principle behind your story
+- **Why**: The core motivation or guiding principle behind your story, the north star, the bright light.
+
+> [!TIP]
+> The environment before you introduce you hero in detail. This is another trio: the context explains the hero feelings.
 
 > [!NOTE]
-> The hero returns from the adventure with a magic wand, light saber, or wisdom: what transformation has the Target undergo?
+> At the end of the saga, the hero returns from the adventure with a magic wand, light saber, or wisdom: what transformation has the Target undergo?
 
+#### Full Story
+
+Here we have built the most minimalistic structure of any story:
+
+- Context
+- Target
+    - Empathy
+- Problem
+    - Consequences
+- Solution
+   - Benefits
+- Why
+
+Finished? No! Refine and tune it. Practice and get feedback.
+
+> [!TIP]
+> Learn all this. Do not go beyond before you master the craft and the art.
 
 ### Extend your story
 
+Once your story gets polished, you may want to complete it.
+
+> [!WARNING]
+> Do you really master the Basic, Details, and Full story?
+> If no, then go back and practice.
+> If yes, then go forward, but very cautiously.
+
 #### Addons
+
+Do not add anything to your story, not before it is already perfect, and fluid, and powerful, and convincing, and...
 
 In case an option is absolutely needed, and you can't live without:
 
-**Optional Additions (use as needed):**
-- **Challenge**: Pose an open question to engage your audience
-- **Quote**: Validate an element with a relevant quote
-- **Data**: Bring facts and figures that proves your point 
-- **Alternatives**: Highlight unsatisfactory solutions the hero has tried
-- **Competition**: Acknowledge competitors, but emphasize why your solution is superior
-- **Unfair Advantage**: What makes your solution uniquely effective, and difficult to imitate
+**Optional Additions (use as truly needed):**
+- **Challenge**: Ask an open-ended question to engage your audience, and provoke their thinking
+- **Quote**: Validate an element with a relevant quote (one that is really backed and proven)
+- **Data**: Bring facts and figures that proves your point, or puts things into perspective
+- **Alternatives**: Highlight unsatisfactory solutions the hero has tried, and that lead to failure (spoiler: yours will be better)
+- **Competition**: Acknowledge competitors, be neutral, but emphasize why your solution is superior through advantages
+- **Unfair Advantage**: What makes your solution uniquely effective, and difficult to imitate by your competition
 - **Warnings**: Potential pitfalls or risks
 - **Self-Benefits**: How you also benefit from the solution
-- **Call to Action**: What you want your audience to do next
+- **Call to Action**: What you want your audience to do next: you have acquired their attention, not activate them 
 - **Failure**: Share a past failure or setback to build credibility and context
 - **Same-same**: The same type of people have lived the same story
 
